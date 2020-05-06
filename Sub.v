@@ -4,4 +4,4 @@ module SUB (out, in1, in2);
   
   always @(*)
     out = in1 - in2;
-    
+endmodule
