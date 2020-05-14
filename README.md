@@ -1,6 +1,6 @@
 # Computing-GCD-of-Two-Numbers-Using-Datapath-and-Control-Design
 Using the Datapath and Control Design approach, I made a system to calculate the GCD of two numbers.
-This is an example that was given in the NPTEL course 'Hardware Modeling Using Verilog' by Prof. Indranil Sengupta.
+This is an example that was given in the NPTEL course 'Hardware Modeling Using Verilog' by Prof. Indranil Sengupta. "GCD_Controller.v" & "GCD_Datapath.v" are the top modules.
 
 ![](https://github.com/souvicksaha95/Computing-GCD-of-Two-Numbers-Using-Datapath-and-Control-Design/blob/master/Result.JPG)  
 This is the simulation result.  
